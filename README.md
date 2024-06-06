@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Adheesha. 👋<br><br>👨‍💻 Computer Engineering undergrad passionate about Software & Web Development.  <br>🌱 Currently diving into .Net Web Dev, App Development, Machine Learning, & Deep Learning.  <br>🤝 Open to collaborations & innovative projects.  <br>📫 Reach out via [email](mailto:adheeshagunathilake23@gmail.com).  and  [linkedin](https://www.linkedin.com/in/adheeshagunathilake/)<br>💼 Looking forward to expanding my skills and contributing to exciting projects.<br>🚀 Let's build something awesome together!  <br><br>Thanks for stopping by! 🌟
+### Hi, I'm Adheesha. 👋<br><br>👨‍💻 Computer Engineering undergrad passionate about Software & Web Development.  <br>🌱 Currently diving into MERN and .Net Web Dev, App Development, Machine Learning, & Deep Learning.  <br>🤝 Open to collaborations & innovative projects.  <br>📫 Reach out via [email](mailto:adheeshagunathilake23@gmail.com).  and  [linkedin](https://www.linkedin.com/in/adheeshagunathilake/)<br>💼 Looking forward to expanding my skills and contributing to exciting projects.<br>🚀 Let's build something awesome together!  <br><br>Thanks for stopping by! 🌟
 
 
 # 💻 Tech Stack:
